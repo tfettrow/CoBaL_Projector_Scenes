@@ -256,13 +256,13 @@
  <HintPath>C:/Program Files/Unity5.4/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="omnitymono">
- <HintPath>C:/Users/balance/Documents/cobal_unity/UD_scenes/Assets/Elumenati/Omnity/Dependencies/omnitymono.dll</HintPath>
+ <HintPath>C:/Users/balance/Documents/CoBaL_Unity_Github/UD_scenes/Assets/Elumenati/Omnity/Dependencies/omnitymono.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>C:/Users/balance/Documents/cobal_unity/UD_scenes/Assets/ProtocolFramework/Plugins/Newtonsoft.Json.dll</HintPath>
+ <HintPath>C:/Users/balance/Documents/CoBaL_Unity_Github/UD_scenes/Assets/ProtocolFramework/Plugins/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="websocket-sharp">
- <HintPath>C:/Users/balance/Documents/cobal_unity/UD_scenes/Assets/ProtocolFramework/Plugins/websocket-sharp.dll</HintPath>
+ <HintPath>C:/Users/balance/Documents/CoBaL_Unity_Github/UD_scenes/Assets/ProtocolFramework/Plugins/websocket-sharp.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

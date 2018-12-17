@@ -58,17 +58,6 @@
      <Compile Include="Assets\ListenForTestOptionChanged.cs" />
      <Compile Include="Assets\Mover.cs" />
      <Compile Include="Assets\Obstacle.cs" />
-     <Compile Include="Assets\Projects_Ian\FarlandSkies\Demo\Scripts\Player\FPSWalkerEnhanced.cs" />
-     <Compile Include="Assets\Projects_Ian\FarlandSkies\Demo\Scripts\Player\SmoothMouseLook.cs" />
-     <Compile Include="Assets\Projects_Ian\FarlandSkies\Demo\Scripts\Skybox\SkyboxChanger.cs" />
-     <Compile Include="Assets\Projects_Ian\FarlandSkies\Demo\Scripts\Skybox\SkyboxRotator.cs" />
-     <Compile Include="Assets\Projects_Ian\Scripts\AroundSphere.cs" />
-     <Compile Include="Assets\Projects_Ian\Scripts\CollideAction.cs" />
-     <Compile Include="Assets\Projects_Ian\Scripts\ColorSpec.cs" />
-     <Compile Include="Assets\Projects_Ian\Scripts\CubeGrid.cs" />
-     <Compile Include="Assets\Projects_Ian\Scripts\CubeSpawn.cs" />
-     <Compile Include="Assets\Projects_Ian\Scripts\PlayerScore.cs" />
-     <Compile Include="Assets\Projects_Ian\Scripts\UDP_Blocks.cs" />
      <Compile Include="Assets\ProtocolDataReader.cs" />
      <Compile Include="Assets\ProtocolFramework\COPDataReader.cs" />
      <Compile Include="Assets\ProtocolFramework\CameraFade.cs" />
@@ -263,13 +252,13 @@
  <HintPath>C:/Program Files/Unity5.4/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="omnitymono">
- <HintPath>C:/Users/balance/Documents/cobal_unity/UD_scenes/Assets/Elumenati/Omnity/Dependencies/omnitymono.dll</HintPath>
+ <HintPath>C:/Users/balance/Documents/CoBaL_Unity_Github/UD_scenes/Assets/Elumenati/Omnity/Dependencies/omnitymono.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>C:/Users/balance/Documents/cobal_unity/UD_scenes/Assets/ProtocolFramework/Plugins/Newtonsoft.Json.dll</HintPath>
+ <HintPath>C:/Users/balance/Documents/CoBaL_Unity_Github/UD_scenes/Assets/ProtocolFramework/Plugins/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="websocket-sharp">
- <HintPath>C:/Users/balance/Documents/cobal_unity/UD_scenes/Assets/ProtocolFramework/Plugins/websocket-sharp.dll</HintPath>
+ <HintPath>C:/Users/balance/Documents/CoBaL_Unity_Github/UD_scenes/Assets/ProtocolFramework/Plugins/websocket-sharp.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
