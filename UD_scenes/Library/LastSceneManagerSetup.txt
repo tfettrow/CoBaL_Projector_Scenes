@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Walking_Into_Fog_UD.unity
+  isLoaded: 1
+  isActive: 1

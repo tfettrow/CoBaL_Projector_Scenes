@@ -1,0 +1,10 @@
+This folder contains the common code for any Workbench (Balance Advtange/Workbook) protocol that should have their visuals implimented in Unity.
+
+The Plugins folder contains .NET 3.5 compatable versions of both Newtonsoft's Json (v9.0r1) module and websocket-csharp module (Jan 8 2017).
+The JSON module is provided as-is from the public available download, while the Websocket class library has been modified from the orignal source code to
+remove the Websocket Server functionality and to expose the WebSocket.IsConnected property as a public gettable value.
+
+The icon.png is the suggested icon to be set with the project so that the deployed exe's get something visually identifiying for the tech support user.
+
+http://www.newtonsoft.com/json
+https://github.com/sta/websocket-sharp

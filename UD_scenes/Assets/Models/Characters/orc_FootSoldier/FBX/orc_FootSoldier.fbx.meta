@@ -1,0 +1,2024 @@
+fileFormatVersion: 2
+guid: 0c5b0fc39ab81c34fb1bf7aa5377b171
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature_Deforms
+    100002: Armor_L
+    100004: Armor_R
+    100006: Brow_L
+    100008: Brow_R
+    100010: Chest
+    100012: Foot_L
+    100014: Foot_R
+    100016: Hand_L
+    100018: Hand_R
+    100020: Head
+    100022: Heel_L
+    100024: Heel_R
+    100026: Hips
+    100028: Index_Intermediate_L
+    100030: Index_Intermediate_R
+    100032: Index_Proximal_L
+    100034: Index_Proximal_R
+    100036: Jaw
+    100038: Lower_Arm_L
+    100040: Lower_Arm_R
+    100042: Lower_Leg_L
+    100044: Lower_Leg_R
+    100046: Master
+    100048: Mesh_Orc_Soldier
+    100050: Mesh_Orc_Soldier_Armor_KneeL
+    100052: Mesh_Orc_Soldier_Armor_KneeR
+    100054: Mesh_Orc_Soldier_Armor_ShoulderL
+    100056: Mesh_Orc_Soldier_Armor_ShoulderR
+    100058: Mesh_Orc_Soldier_Helmet
+    100060: Mesh_Orc_Soldier_Shield
+    100062: Middle_Intermediate_L
+    100064: Middle_Intermediate_R
+    100066: Middle_Proximal_L
+    100068: Middle_Proximal_R
+    100070: Neck
+    100072: Orc_Cleaver
+    100074: //RootNode
+    100076: Shoulder_L
+    100078: Shoulder_R
+    100080: Spine
+    100082: Thumb_Intermediate_L
+    100084: Thumb_Intermediate_R
+    100086: Thumb_Proximal_L
+    100088: Thumb_Proximal_R
+    100090: Toes_L
+    100092: Toes_R
+    100094: Upper_Arm_L
+    100096: Upper_Arm_R
+    100098: Upper_Leg_L
+    100100: Upper_Leg_R
+    400000: Armature_Deforms
+    400002: Armor_L
+    400004: Armor_R
+    400006: Brow_L
+    400008: Brow_R
+    400010: Chest
+    400012: Foot_L
+    400014: Foot_R
+    400016: Hand_L
+    400018: Hand_R
+    400020: Head
+    400022: Heel_L
+    400024: Heel_R
+    400026: Hips
+    400028: Index_Intermediate_L
+    400030: Index_Intermediate_R
+    400032: Index_Proximal_L
+    400034: Index_Proximal_R
+    400036: Jaw
+    400038: Lower_Arm_L
+    400040: Lower_Arm_R
+    400042: Lower_Leg_L
+    400044: Lower_Leg_R
+    400046: Master
+    400048: Mesh_Orc_Soldier
+    400050: Mesh_Orc_Soldier_Armor_KneeL
+    400052: Mesh_Orc_Soldier_Armor_KneeR
+    400054: Mesh_Orc_Soldier_Armor_ShoulderL
+    400056: Mesh_Orc_Soldier_Armor_ShoulderR
+    400058: Mesh_Orc_Soldier_Helmet
+    400060: Mesh_Orc_Soldier_Shield
+    400062: Middle_Intermediate_L
+    400064: Middle_Intermediate_R
+    400066: Middle_Proximal_L
+    400068: Middle_Proximal_R
+    400070: Neck
+    400072: Orc_Cleaver
+    400074: //RootNode
+    400076: Shoulder_L
+    400078: Shoulder_R
+    400080: Spine
+    400082: Thumb_Intermediate_L
+    400084: Thumb_Intermediate_R
+    400086: Thumb_Proximal_L
+    400088: Thumb_Proximal_R
+    400090: Toes_L
+    400092: Toes_R
+    400094: Upper_Arm_L
+    400096: Upper_Arm_R
+    400098: Upper_Leg_L
+    400100: Upper_Leg_R
+    4300000: Mesh_Orc_Soldier_Armor_ShoulderL
+    4300002: Mesh_Orc_Soldier_Armor_ShoulderR
+    4300004: Mesh_Orc_Soldier_Shield
+    4300006: Orc_Cleaver
+    4300008: Mesh_Orc_Soldier
+    4300010: Mesh_Orc_Soldier_Helmet
+    4300012: Mesh_Orc_Soldier_Armor_KneeR
+    4300014: Mesh_Orc_Soldier_Armor_KneeL
+    7400000: Action_Attack
+    7400002: Action_Attack2
+    7400004: Action_Defend
+    7400006: Action_Die
+    7400008: Action_GetHit
+    7400010: Action_Idle
+    7400012: Action_Idle_Taunt1
+    7400014: Action_Idle_Taunt2
+    7400016: Action_Jump
+    7400018: Action_Run
+    7400020: Action_StepBack
+    7400022: Action_StepLeft
+    7400024: Action_StepRight
+    7400026: Action_Tpose
+    7400028: Action_Walk
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Mesh_Orc_Soldier
+    13700002: Mesh_Orc_Soldier_Armor_KneeL
+    13700004: Mesh_Orc_Soldier_Armor_KneeR
+    13700006: Mesh_Orc_Soldier_Armor_ShoulderL
+    13700008: Mesh_Orc_Soldier_Armor_ShoulderR
+    13700010: Mesh_Orc_Soldier_Helmet
+    13700012: Mesh_Orc_Soldier_Shield
+    13700014: Orc_Cleaver
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Action_Attack
+      takeName: Action_Attack
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Master
+        weight: 1
+      - path: Master/Armature_Deforms
+        weight: 1
+      - path: Master/Armature_Deforms/Hips
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Jaw
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Armor_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Armor_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Heel_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toes_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Heel_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toes_R
+        weight: 1
+      - path: Mesh_Orc_Soldier
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Helmet
+        weight: 1
+      - path: Mesh_Orc_Soldier_Shield
+        weight: 1
+      - path: Orc_Cleaver
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action_Attack2
+      takeName: Action_Attack2
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Master
+        weight: 1
+      - path: Master/Armature_Deforms
+        weight: 1
+      - path: Master/Armature_Deforms/Hips
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Jaw
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Armor_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Armor_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Heel_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toes_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Heel_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toes_R
+        weight: 1
+      - path: Mesh_Orc_Soldier
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Helmet
+        weight: 1
+      - path: Mesh_Orc_Soldier_Shield
+        weight: 1
+      - path: Orc_Cleaver
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action_Defend
+      takeName: Action_Defend
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Master
+        weight: 1
+      - path: Master/Armature_Deforms
+        weight: 1
+      - path: Master/Armature_Deforms/Hips
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Jaw
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Armor_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Armor_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Heel_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toes_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Heel_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toes_R
+        weight: 1
+      - path: Mesh_Orc_Soldier
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Helmet
+        weight: 1
+      - path: Mesh_Orc_Soldier_Shield
+        weight: 1
+      - path: Orc_Cleaver
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action_Die
+      takeName: Action_Die
+      firstFrame: 0
+      lastFrame: 62
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Master
+        weight: 1
+      - path: Master/Armature_Deforms
+        weight: 1
+      - path: Master/Armature_Deforms/Hips
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Jaw
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Armor_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Armor_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Heel_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toes_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Heel_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toes_R
+        weight: 1
+      - path: Mesh_Orc_Soldier
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Helmet
+        weight: 1
+      - path: Mesh_Orc_Soldier_Shield
+        weight: 1
+      - path: Orc_Cleaver
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action_GetHit
+      takeName: Action_GetHit
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Master
+        weight: 1
+      - path: Master/Armature_Deforms
+        weight: 1
+      - path: Master/Armature_Deforms/Hips
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Jaw
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Armor_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Armor_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Heel_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toes_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Heel_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toes_R
+        weight: 1
+      - path: Mesh_Orc_Soldier
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Helmet
+        weight: 1
+      - path: Mesh_Orc_Soldier_Shield
+        weight: 1
+      - path: Orc_Cleaver
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action_Idle
+      takeName: Action_Idle
+      firstFrame: 0
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Master
+        weight: 1
+      - path: Master/Armature_Deforms
+        weight: 1
+      - path: Master/Armature_Deforms/Hips
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Jaw
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Armor_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Armor_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Heel_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toes_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Heel_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toes_R
+        weight: 1
+      - path: Mesh_Orc_Soldier
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Helmet
+        weight: 1
+      - path: Mesh_Orc_Soldier_Shield
+        weight: 1
+      - path: Orc_Cleaver
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action_Idle_Taunt1
+      takeName: Action_Idle_Taunt1
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Master
+        weight: 1
+      - path: Master/Armature_Deforms
+        weight: 1
+      - path: Master/Armature_Deforms/Hips
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Jaw
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Armor_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Armor_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Heel_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toes_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Heel_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toes_R
+        weight: 1
+      - path: Mesh_Orc_Soldier
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Helmet
+        weight: 1
+      - path: Mesh_Orc_Soldier_Shield
+        weight: 1
+      - path: Orc_Cleaver
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action_Idle_Taunt2
+      takeName: Action_Idle_Taunt2
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Master
+        weight: 1
+      - path: Master/Armature_Deforms
+        weight: 1
+      - path: Master/Armature_Deforms/Hips
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Jaw
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Armor_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Armor_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Heel_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toes_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Heel_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toes_R
+        weight: 1
+      - path: Mesh_Orc_Soldier
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Helmet
+        weight: 1
+      - path: Mesh_Orc_Soldier_Shield
+        weight: 1
+      - path: Orc_Cleaver
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action_Jump
+      takeName: Action_Jump
+      firstFrame: 0
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Master
+        weight: 1
+      - path: Master/Armature_Deforms
+        weight: 1
+      - path: Master/Armature_Deforms/Hips
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Jaw
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Armor_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Armor_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Heel_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toes_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Heel_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toes_R
+        weight: 1
+      - path: Mesh_Orc_Soldier
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Helmet
+        weight: 1
+      - path: Mesh_Orc_Soldier_Shield
+        weight: 1
+      - path: Orc_Cleaver
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action_Run
+      takeName: Action_Run
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Master
+        weight: 1
+      - path: Master/Armature_Deforms
+        weight: 1
+      - path: Master/Armature_Deforms/Hips
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Jaw
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Armor_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Armor_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Heel_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toes_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Heel_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toes_R
+        weight: 1
+      - path: Mesh_Orc_Soldier
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Helmet
+        weight: 1
+      - path: Mesh_Orc_Soldier_Shield
+        weight: 1
+      - path: Orc_Cleaver
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action_StepBack
+      takeName: Action_StepBack
+      firstFrame: 0
+      lastFrame: 53
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Master
+        weight: 1
+      - path: Master/Armature_Deforms
+        weight: 1
+      - path: Master/Armature_Deforms/Hips
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Jaw
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Armor_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Armor_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Heel_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toes_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Heel_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toes_R
+        weight: 1
+      - path: Mesh_Orc_Soldier
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Helmet
+        weight: 1
+      - path: Mesh_Orc_Soldier_Shield
+        weight: 1
+      - path: Orc_Cleaver
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action_StepLeft
+      takeName: Action_StepLeft
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Master
+        weight: 1
+      - path: Master/Armature_Deforms
+        weight: 1
+      - path: Master/Armature_Deforms/Hips
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Jaw
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Armor_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Armor_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Heel_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toes_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Heel_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toes_R
+        weight: 1
+      - path: Mesh_Orc_Soldier
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Helmet
+        weight: 1
+      - path: Mesh_Orc_Soldier_Shield
+        weight: 1
+      - path: Orc_Cleaver
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action_StepRight
+      takeName: Action_StepRight
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Master
+        weight: 1
+      - path: Master/Armature_Deforms
+        weight: 1
+      - path: Master/Armature_Deforms/Hips
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Jaw
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Armor_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Armor_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Heel_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toes_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Heel_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toes_R
+        weight: 1
+      - path: Mesh_Orc_Soldier
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Helmet
+        weight: 1
+      - path: Mesh_Orc_Soldier_Shield
+        weight: 1
+      - path: Orc_Cleaver
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Action_Walk
+      takeName: Action_Walk
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Master
+        weight: 1
+      - path: Master/Armature_Deforms
+        weight: 1
+      - path: Master/Armature_Deforms/Hips
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Brow_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Neck/Head/Jaw
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Armor_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Armor_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/Index_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Heel_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toes_L
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Heel_R
+        weight: 1
+      - path: Master/Armature_Deforms/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toes_R
+        weight: 1
+      - path: Mesh_Orc_Soldier
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_KneeR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderL
+        weight: 1
+      - path: Mesh_Orc_Soldier_Armor_ShoulderR
+        weight: 1
+      - path: Mesh_Orc_Soldier_Helmet
+        weight: 1
+      - path: Mesh_Orc_Soldier_Shield
+        weight: 1
+      - path: Orc_Cleaver
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
